@@ -4,4 +4,4 @@
 // Last Updated: 13 / 02 / 2017  
 
 ## Explanation - autoexec.cfg
-The autoexec.cfg is a list of commands that are executed when you run CS:GO (autoexec = automatically executed)
+autoexec.cfg is a list of commands executed when you run CS:GO (autoexec = automatically executed)

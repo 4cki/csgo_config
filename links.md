@@ -2,22 +2,24 @@
 This file contains all resources, tools and tutorials I have used to improve my CS:GO experience.
 
 ### CS:GO Resources
-[VibranceGUI for CS:GO](https://vibrancegui.com)
+- [VibranceGUI for CS:GO](https://vibrancegui.com)
 
-[Custom RadarMaps for CS:GO](https://vibrancegui.com)
+- [Custom RadarMaps for CS:GO](http://www.simpleradar.com)
 
+- [Custom Fonts for CS:GO](http://fonts.spddl.de)
 
-- **VibranceGUI für CS:GO:** https://vibrancegui.com
-- **Alternative to standard radar maps:** http://www.simpleradar.com
-- **Custom CS:GO Fonts:** http://fonts.spddl.de
-- **Helpful tutorials & resources:** http://bananagaming.tv
-- **Crosshair Generator:** http://tools.dathost.net
-- **Binds Generator:** http://tools.dathost.net/csgobindsgenerator
-- **List of all CS:GO commands:** http://tools.dathost.net/csgo-commands
-- **Killfeed Generator:** http://tools.dathost.net/killfeed-generator/
-- **Sensitivity Calculator:** http://www.notalent.org/sensitivity/sensitivity.htm
-- **List of all CS:GO Cvars:** https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars
-- **Tons of config:** http://www.gamerconfig.eu/configs/counter-strike-global-offensive/
+- [BananaGaming Website](http://bananagaming.tv)
+
+- [Crosshair, Binds, Commands & Killfeed Generator](http://tools.dathost.net)
+
+- [Mouse Sensitivity Calculator](http://www.notalent.org/sensitivity/sensitivity.html)
+
+- [List of all CS:GO CVARS](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
+
+- [Gamerconfig.eu - Site with tons of configs](ttp://www.gamerconfig.eu/configs/counter-strike-global-offensive/)
+
+- []()
+
 
 ### CS:GO Tools
 - **VAC Checker:** https://github.com/WillsonHaw/VacBanChecker

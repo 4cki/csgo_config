@@ -27,4 +27,3 @@ CS:GO Stats: https://csgostats.gg/
 
 // => [*] CS:GO Maps
 // -> https://steamcommunity.com/sharedfiles/filedetails/?id=314892291		// Jump Tutorial Map
-

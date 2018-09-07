@@ -2,17 +2,17 @@
 This file contains all resources, tools and tutorials I have used to improve my CS:GO experience.
 
 ### CS:GO Resources
-- https://vibrancegui.com							                                // VibranceGUI for CS:GO for a more colorful Gameplay.
-- http://www.simpleradar.com						                              // Alternative for standard Radar Maps
-- http://fonts.spddl.de							                                  // Custom CS:GO Fonts & more
-- http://bananagaming.tv							                                // Helpful tutorials & resources
-- http://tools.dathost.net							                              // Crosshair Generator
-- http://tools.dathost.net/csgobindsgenerator				                  // Binds Generator
-- http://tools.dathost.net/csgo-commands					                    // List of all CS:GO commands
-- http://tools.dathost.net/killfeed-generator/				                // Killfeed Generator
-- http://www.notalent.org/sensitivity/sensitivity.htm			            // Sensitivity Calculator
-- https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars		    // List of all CS:GO Cvars
-- http://www.gamerconfig.eu/configs/counter-strike-global-offensive/	// Tons of config files from players all around the world
+- **VibranceGUI für CS:GO:** https://vibrancegui.com
+- **Alternative to standard radar maps:** http://www.simpleradar.com
+- **Custom CS:GO Fonts:** http://fonts.spddl.de
+- **Helpful tutorials & resources:** http://bananagaming.tv
+- **Crosshair Generator:** http://tools.dathost.net
+- **Binds Generator:** http://tools.dathost.net/csgobindsgenerator
+- **List of all CS:GO commands:** http://tools.dathost.net/csgo-commands
+- **Killfeed Generator:** http://tools.dathost.net/killfeed-generator/
+- **Sensitivity Calculator:** http://www.notalent.org/sensitivity/sensitivity.htm
+- **List of all CS:GO Cvars:** https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars
+- **Tons of config:** http://www.gamerconfig.eu/configs/counter-strike-global-offensive/
 
 ### CS:GO Tools
 - **VAC Checker:** https://github.com/WillsonHaw/VacBanChecker

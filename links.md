@@ -2,6 +2,10 @@
 This file contains all resources, tools and tutorials I have used to improve my CS:GO experience.
 
 ### CS:GO Resources
+[VibranceGUI for CS:GO](https://vibrancegui.com)
+[Custom RadarMaps for CS:GO](https://vibrancegui.com)
+
+
 - **VibranceGUI für CS:GO:** https://vibrancegui.com
 - **Alternative to standard radar maps:** http://www.simpleradar.com
 - **Custom CS:GO Fonts:** http://fonts.spddl.de

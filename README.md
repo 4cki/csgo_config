@@ -15,16 +15,11 @@ autoexec.cfg is a list of commands executed when you run CS:GO (autoexec = autom
 
 ## General CS:GO Settings
 - **Resolution:**                 1920x1080 - 16:9
-
-**Windows Sensitivity:**        6/11 
-
-**Enhance Pointer Precision:**  No
-
-**Mouse DPI:**                  800
-
-**Mouse Polling Rate:**         1000hz
-
-**Mouse eDPI:**                 800
+- **Windows Sensitivity:**        6/11 
+- **Enhance Pointer Precision:**  No
+- **Mouse DPI:**                  800
+- **Mouse Polling Rate:**         1000hz
+- **Mouse eDPI:**                 800
 
 ## Author
 * **Adrian**

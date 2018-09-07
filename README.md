@@ -9,13 +9,13 @@ autoexec.cfg is a list of commands executed when you run CS:GO (autoexec = autom
 ## Installing & CS:GO Launch Options
 
 
-
 ```
 -high -novid -console -tickrate 128
 ```
 
 ## General CS:GO Settings
-**Resolution:**                 1920x1080 - 16:9
+- **Resolution:**                 1920x1080 - 16:9
+
 **Windows Sensitivity:**        6/11 
 
 **Enhance Pointer Precision:**  No

@@ -14,7 +14,6 @@ This file contains all resources, tools and tutorials I have used to improve my 
 - [Tool to check for VAC Bans](https://github.com/WillsonHaw/VacBanChecker)
 - [CS:GO Statistics - csgostats.gg](https://csgostats.gg/)
 
-
 ### CS:GO Tutorials & Resources
 - [bananaGaming.tv - Tutorials & Resources](http://bananagaming.tv)
 - [clutchround.com - CS:GO Tutorials](http://clutchround.com)

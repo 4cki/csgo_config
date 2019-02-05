@@ -1,0 +1,33 @@
+// ---------------------------------------------------------------
+// Counter-Strike: Global Offensive - Custom Module Configuration
+// by Adrian | Gamertags: frkyy, 4cki, f0rky, Raz0r
+// > Steam: https://steamcommunity.com/id/frkyxz
+//
+// Last Updated: 05/02/2019
+// ---------------------------------------------------------------
+
+// > Brackets Explanation for config files
+// > -------------------------------------------------------------
+// > Def. = Default Value - Value set by default if not changed
+// > Min. = Minimum Value - Lowest possible value
+// > Max. = Maximum Value - Highest possible value
+
+// > A U T O E X E C - L O A D E R 
+// ---------------------------------------------------------------
+
+clear
+
+exec 1_keybinds		// executes keybind config
+exec 2_scripts		// executes script config
+exec 3_network		// executes network config
+exec 4_crosshair	// executes crosshair config
+exec 5_sense		// executes mouse sense config
+exec 6_viewmodel	// executes viewmodel config
+exec 7_hud		// executes hud config
+exec 8_graphics		// executes graphical config
+exec 9_sound		// executes sound config
+exec 10_misc		// executes miscellaneous config
+
+host_writeconfig 	// Store current settings to config.cfg (or specified .cfg file)
+
+echo "autoexec.cfg loaded"

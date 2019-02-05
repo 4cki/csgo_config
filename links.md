@@ -25,3 +25,4 @@ This file contains all resources, tools and tutorials I have used to improve my 
 ### CS:GO Maps
 - [Jump Tutorial Map](https://steamcommunity.com/sharedfiles/filedetails/?id=314892291)
 - [crashz' Viewmodel Generator](https://steamcommunity.com/sharedfiles/filedetails/?id=365126929)
+- [crashz' Config Generator](https://steamcommunity.com/sharedfiles/filedetails/?id=1325659427)

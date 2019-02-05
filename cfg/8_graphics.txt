@@ -1,0 +1,1 @@
+net_graphproportionalfont 	"0"		// def.      1 - 0 = small font, 1 = normal font (scales with resolution).

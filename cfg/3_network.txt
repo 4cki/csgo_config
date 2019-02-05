@@ -1,0 +1,23 @@
+// ============================
+// ***** Network Settings *****
+// ============================
+
+// [i] blogpost
+
+rate 			"786432"	// def. 196608 - Max bytes/sec the host can receive data.
+cl_cmdrate 		"128"		// def.     64 - Max. number of command packets sent to server per second.
+cl_updaterate 		"128"		// def.     64 - Number of packets per second of updates you are requesting from the server.
+cl_interp 		"0"		// def.      0 - Sets the interpolation amount (bounded on low side by server interp ratio settings).
+cl_interp_ratio 	"2"		// def.      2 - Sets the interpolation amount (final amount is cl_interp_ratio / cl_updaterate). 
+
+net_graph 		"1"		// def.      0 - Enables the network statistics overlay.
+					// 1 = Competitive/Basic Netgraph (allowed under sv_competitive_minspec 1).
+					// 2 = Advanced Netgraph (gives out more information about network status).
+					// 3 = Advanced Netgraph with colored graph.
+
+net_graphpos 		"1"		// def.      1 - 1=right 2=center 3=left - 0 and every value above 3 sets the distance from the left border of Your screen (depending on resolution).
+net_graphheight 	"9999"		// def.     64 - Height of netgraph panel.
+
+mm_dedicated_search_maxping "75" 	// def.    150 - Longest preferred ping to dedicated servers for games.
+
+echo "3_network.cfg loaded"

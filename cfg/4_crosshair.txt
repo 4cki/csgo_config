@@ -1,0 +1,10 @@
+// ==============================
+// ***** Crosshair Settings *****
+// ==============================
+
+// > Create your own crosshair settings!
+
+// [i] Personal Crosshair Settings
+
+cl_crosshaircolor "1"
+cl_crosshairstyle "1"

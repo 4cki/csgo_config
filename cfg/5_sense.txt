@@ -1,0 +1,17 @@
+// ================================
+// ***** Sensitivity Settings *****
+// ================================
+
+// [i] 
+// [>] Windows: 6/11 | DPI: 800 | eDPI: 1069.6
+
+sensitivity 1.0	 					// Mouse sensitivity.
+m_customaccel 0 					// Custom mouse acceleration. (Def. 3) (Min. 0 / Max. 3) 
+m_mouseaccel1 0 					// Windows mouse acceleration initial threshold (2x movement).
+m_mouseaccel2 0 					// Windows mouse acceleration secondary threshold (4x movement).
+m_mousespeed 0 						// Custom mouse acceleration.
+m_rawinput 1 						// Use raw input for mouse input.
+zoom_sensitivity_ratio_mouse 0.818933027098955175 	// Additional mouse sensitivity scale factor applied when FOV is zoomed in.
+
+echo "5_sense.cfg loaded"
+

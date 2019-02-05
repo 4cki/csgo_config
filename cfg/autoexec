@@ -28,6 +28,6 @@ exec 8_graphics     // executes graphical config
 exec 9_sound        // executes sound config
 exec 10_misc        // executes miscellaneous config
 
-host_writeconfig 	// Store current settings to config.cfg (or specified .cfg file)
+host_writeconfig    // Store current settings to config.cfg (or specified .cfg file)
 
 echo "autoexec.cfg loaded"

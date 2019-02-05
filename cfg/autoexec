@@ -23,10 +23,10 @@ exec 3_network		// executes network config
 exec 4_crosshair	// executes crosshair config
 exec 5_sense		// executes mouse sense config
 exec 6_viewmodel	// executes viewmodel config
-exec 7_hud		// executes hud config
-exec 8_graphics		// executes graphical config
+exec 7_hud    // executes hud config
+exec 8_graphics   // executes graphical config
 exec 9_sound		// executes sound config
-exec 10_misc		// executes miscellaneous config
+exec 10_misc    // executes miscellaneous config
 
 host_writeconfig 	// Store current settings to config.cfg (or specified .cfg file)
 

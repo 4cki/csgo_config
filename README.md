@@ -9,7 +9,7 @@ autoexec.cfg is a list of commands executed when you run CS:GO (autoexec = autom
 ## Installing & CS:GO Launch Options
 
 ```
--high -novid -console -tickrate 128
+-novid -console
 ```
 
 ## General CS:GO Settings

@@ -6,7 +6,7 @@
 ## Explanation - autoexec.cfg
 autoexec.cfg is a list of commands executed when you run CS:GO (autoexec = automatically executed)
 
-## Installing & CS:GO Launch Options
+## CS:GO Launch Options
 
 ```
 -novid -console

@@ -20,6 +20,22 @@ autoexec.cfg is a list of commands executed when you run CS:GO (autoexec = autom
 - **Mouse Polling Rate:**         1000hz
 - **Mouse eDPI:**                 800
 
+## Video Settings
+- **Global Shadow Quality:**      Medium (keeps all the important shadows)
+- **Model / Texture Detail:**     Low / Medium
+- **Texture STreaming:**          Disabled
+- **Effect Detail:**              High (paired with Shader Detail on High can help see through mollies)
+- **Shader Detail:**              High (paired with Effect Detail on High can help see through mollies)
+- **Boost Player Contrast**       Enabled
+- **Multicore Rendering:**        Enabled
+- **Multisampling AA Mode:**      4x MSAA (if 4:3), 8x MSAA (if 16:9)
+- **FXAA Anti-Aliasing:**         Disabled
+- **Texture Filtering Mode:**     Anisotropic 8x
+- **Wait for Vertical Sync:**     Disabled
+- **Motion Blur:**                Disabled
+- **Triple-Monitore Mode:**       Disabled
+- **Use Uber Shaders:**           Auto:Enabled
+
 ## Author
 * **Adrian**
 

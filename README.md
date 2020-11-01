@@ -20,7 +20,7 @@ autoexec.cfg is a list of commands executed when you run CS:GO (autoexec = autom
 - **Mouse Polling Rate:**         1000hz
 - **Mouse eDPI:**                 800
 
-## Video Settings
+## Advanced Video Settings
 - **Global Shadow Quality:**      Medium (keeps all the important shadows)
 - **Model / Texture Detail:**     Low / Medium
 - **Texture STreaming:**          Disabled
